@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\source\\repos\\LW_OS_Meleshenko_6101_120303\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF25846-B478-4F1B-93FD-D6474DD8C509}|LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.vcxproj|C:\\Users\\Ivan\\source\\repos\\LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CF25846-B478-4F1B-93FD-D6474DD8C509}|LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.vcxproj|solutionrelative:LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LW_OS_Meleshenko_6101_120303.cpp",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.cpp",
+              "RelativeDocumentMoniker": "LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.cpp",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.cpp",
+              "RelativeToolTip": "LW_OS_Meleshenko_6101_120303\\LW_OS_Meleshenko_6101_120303.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T14:28:22.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
