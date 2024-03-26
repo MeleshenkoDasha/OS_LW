@@ -1,0 +1,20 @@
+﻿  Source1.cpp
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(63,6): error C2182: "mask": недопустимое использование "void"
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(63,11): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(63,18): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "mask"
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(64,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(64,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(86,9): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(87,58): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(95,34): error C2061: синтаксическая ошибка: идентификатор "mode_t"
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(98,22): error C2065: access: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(98,9): error C3861: chmod: идентификатор не найден
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(139,13): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(139,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "newPermissions"
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(139,20): error C2065: newPermissions: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(140,31): error C2065: newPermissions: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(184,13): error C2065: mode_t: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(184,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "access"
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(184,20): error C2065: access: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(186,27): error C2065: access: необъявленный идентификатор
+C:\Users\Ivan\source\repos\ОС-2\ОС-2\Source1.cpp(188,37): error C2065: access: необъявленный идентификатор
