@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\79608\source\repos\ОС - 4 сервер\ОС - 4 сервер\Source1.cpp(95,56): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\79608\source\repos\ОС - 4 сервер\ОС - 4 сервер\Source1.cpp(18,8): warning C4101: rd: неиспользованная локальная переменная
+  ОС - 4 сервер.vcxproj -> C:\Users\79608\source\repos\ОС - 4 сервер\x64\Debug\ОС - 4 сервер.exe
