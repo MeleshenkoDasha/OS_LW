@@ -1,0 +1,3 @@
+﻿  LW_OS_5_client.cpp
+C:\Users\Ivan\source\repos\LW_OS_5_client\LW_OS_5_client\LW_OS_5_client.cpp(87,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  LW_OS_5_client.vcxproj -> C:\Users\Ivan\source\repos\LW_OS_5_client\x64\Debug\LW_OS_5_client.exe
