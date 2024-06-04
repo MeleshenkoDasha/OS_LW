@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\Desktop\\LR6_server\\LR6_server\\LR6_server.csproj": {}
+    "E:\\RepositoriesGitHub\\Dasha\\OS_LW\\OS_LW_6\\LR6_server\\LR6_server\\LR6_server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\Desktop\\LR6_server\\LR6_server\\LR6_server.csproj": {
+    "E:\\RepositoriesGitHub\\Dasha\\OS_LW\\OS_LW_6\\LR6_server\\LR6_server\\LR6_server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\LR6_server\\LR6_server\\LR6_server.csproj",
+        "projectUniqueName": "E:\\RepositoriesGitHub\\Dasha\\OS_LW\\OS_LW_6\\LR6_server\\LR6_server\\LR6_server.csproj",
         "projectName": "LR6_server",
-        "projectPath": "C:\\Users\\Ivan\\Desktop\\LR6_server\\LR6_server\\LR6_server.csproj",
+        "projectPath": "E:\\RepositoriesGitHub\\Dasha\\OS_LW\\OS_LW_6\\LR6_server\\LR6_server\\LR6_server.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Desktop\\LR6_server\\LR6_server\\obj\\",
+        "outputPath": "E:\\RepositoriesGitHub\\Dasha\\OS_LW\\OS_LW_6\\LR6_server\\LR6_server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",

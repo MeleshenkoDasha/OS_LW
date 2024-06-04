@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LR6_server
-build_property.ProjectDir = C:\Users\Ivan\Desktop\LR6_server\LR6_server\
+build_property.ProjectDir = E:\RepositoriesGitHub\Dasha\OS_LW\OS_LW_6\LR6_server\LR6_server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

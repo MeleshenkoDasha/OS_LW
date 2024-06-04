@@ -59,13 +59,12 @@
             tableLayoutPanel1.Controls.Add(tableLayoutPanel2, 3, 1);
             tableLayoutPanel1.Controls.Add(tableLayoutPanel3, 1, 1);
             tableLayoutPanel1.Location = new Point(-1, -1);
-            tableLayoutPanel1.Margin = new Padding(3, 4, 3, 4);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
             tableLayoutPanel1.RowCount = 3;
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 1F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 98F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 1F));
-            tableLayoutPanel1.Size = new Size(896, 749);
+            tableLayoutPanel1.Size = new Size(784, 562);
             tableLayoutPanel1.TabIndex = 0;
             // 
             // tableLayoutPanel2
@@ -88,8 +87,7 @@
             tableLayoutPanel2.Controls.Add(btnColor8, 3, 5);
             tableLayoutPanel2.Controls.Add(btnColor0, 5, 5);
             tableLayoutPanel2.Controls.Add(btnColor4, 1, 3);
-            tableLayoutPanel2.Location = new Point(287, 11);
-            tableLayoutPanel2.Margin = new Padding(3, 4, 3, 4);
+            tableLayoutPanel2.Location = new Point(252, 8);
             tableLayoutPanel2.Name = "tableLayoutPanel2";
             tableLayoutPanel2.RowCount = 7;
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 1F));
@@ -99,7 +97,7 @@
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 1F));
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 32F));
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 1F));
-            tableLayoutPanel2.Size = new Size(594, 726);
+            tableLayoutPanel2.Size = new Size(519, 544);
             tableLayoutPanel2.TabIndex = 0;
             // 
             // btnColor1
@@ -107,10 +105,9 @@
             btnColor1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor1.BackColor = Color.Gray;
             btnColor1.Font = new Font("Cambria", 16.25F);
-            btnColor1.Location = new Point(8, 11);
-            btnColor1.Margin = new Padding(3, 4, 3, 4);
+            btnColor1.Location = new Point(8, 8);
             btnColor1.Name = "btnColor1";
-            btnColor1.Size = new Size(184, 224);
+            btnColor1.Size = new Size(160, 168);
             btnColor1.TabIndex = 0;
             btnColor1.Text = "Изменить цвет на";
             btnColor1.UseVisualStyleBackColor = false;
@@ -121,10 +118,9 @@
             btnColor2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor2.BackColor = Color.Red;
             btnColor2.Font = new Font("Cambria", 16.25F);
-            btnColor2.Location = new Point(203, 11);
-            btnColor2.Margin = new Padding(3, 4, 3, 4);
+            btnColor2.Location = new Point(179, 8);
             btnColor2.Name = "btnColor2";
-            btnColor2.Size = new Size(184, 224);
+            btnColor2.Size = new Size(160, 168);
             btnColor2.TabIndex = 1;
             btnColor2.Text = "Изменить цвет на";
             btnColor2.UseVisualStyleBackColor = false;
@@ -135,10 +131,9 @@
             btnColor3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor3.BackColor = Color.Orange;
             btnColor3.Font = new Font("Cambria", 16.25F);
-            btnColor3.Location = new Point(398, 11);
-            btnColor3.Margin = new Padding(3, 4, 3, 4);
+            btnColor3.Location = new Point(350, 8);
             btnColor3.Name = "btnColor3";
-            btnColor3.Size = new Size(184, 224);
+            btnColor3.Size = new Size(160, 168);
             btnColor3.TabIndex = 2;
             btnColor3.Text = "Изменить цвет на";
             btnColor3.UseVisualStyleBackColor = false;
@@ -149,10 +144,9 @@
             btnColor5.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor5.BackColor = Color.Green;
             btnColor5.Font = new Font("Cambria", 16.25F);
-            btnColor5.Location = new Point(203, 250);
-            btnColor5.Margin = new Padding(3, 4, 3, 4);
+            btnColor5.Location = new Point(179, 187);
             btnColor5.Name = "btnColor5";
-            btnColor5.Size = new Size(184, 224);
+            btnColor5.Size = new Size(160, 168);
             btnColor5.TabIndex = 4;
             btnColor5.Text = "Изменить цвет на";
             btnColor5.UseVisualStyleBackColor = false;
@@ -163,10 +157,9 @@
             btnColor6.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor6.BackColor = Color.Cyan;
             btnColor6.Font = new Font("Cambria", 16.25F);
-            btnColor6.Location = new Point(398, 250);
-            btnColor6.Margin = new Padding(3, 4, 3, 4);
+            btnColor6.Location = new Point(350, 187);
             btnColor6.Name = "btnColor6";
-            btnColor6.Size = new Size(184, 224);
+            btnColor6.Size = new Size(160, 168);
             btnColor6.TabIndex = 5;
             btnColor6.Text = "Изменить цвет на";
             btnColor6.UseVisualStyleBackColor = false;
@@ -177,10 +170,9 @@
             btnColor7.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor7.BackColor = Color.Blue;
             btnColor7.Font = new Font("Cambria", 16.25F);
-            btnColor7.Location = new Point(8, 489);
-            btnColor7.Margin = new Padding(3, 4, 3, 4);
+            btnColor7.Location = new Point(8, 366);
             btnColor7.Name = "btnColor7";
-            btnColor7.Size = new Size(184, 224);
+            btnColor7.Size = new Size(160, 168);
             btnColor7.TabIndex = 6;
             btnColor7.Text = "Изменить цвет на";
             btnColor7.UseVisualStyleBackColor = false;
@@ -191,10 +183,9 @@
             btnColor8.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor8.BackColor = Color.Purple;
             btnColor8.Font = new Font("Cambria", 16.25F);
-            btnColor8.Location = new Point(203, 489);
-            btnColor8.Margin = new Padding(3, 4, 3, 4);
+            btnColor8.Location = new Point(179, 366);
             btnColor8.Name = "btnColor8";
-            btnColor8.Size = new Size(184, 224);
+            btnColor8.Size = new Size(160, 168);
             btnColor8.TabIndex = 7;
             btnColor8.Text = "Изменить цвет на";
             btnColor8.UseVisualStyleBackColor = false;
@@ -205,10 +196,9 @@
             btnColor0.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor0.BackColor = Color.White;
             btnColor0.Font = new Font("Cambria", 16.25F);
-            btnColor0.Location = new Point(398, 489);
-            btnColor0.Margin = new Padding(3, 4, 3, 4);
+            btnColor0.Location = new Point(350, 366);
             btnColor0.Name = "btnColor0";
-            btnColor0.Size = new Size(184, 224);
+            btnColor0.Size = new Size(160, 168);
             btnColor0.TabIndex = 8;
             btnColor0.Text = "Восстановить цвет";
             btnColor0.UseVisualStyleBackColor = false;
@@ -219,10 +209,9 @@
             btnColor4.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnColor4.BackColor = Color.Yellow;
             btnColor4.Font = new Font("Cambria", 16.25F);
-            btnColor4.Location = new Point(8, 250);
-            btnColor4.Margin = new Padding(3, 4, 3, 4);
+            btnColor4.Location = new Point(8, 187);
             btnColor4.Name = "btnColor4";
-            btnColor4.Size = new Size(184, 224);
+            btnColor4.Size = new Size(160, 168);
             btnColor4.TabIndex = 3;
             btnColor4.Text = "Изменить цвет на";
             btnColor4.UseVisualStyleBackColor = false;
@@ -237,8 +226,7 @@
             tableLayoutPanel3.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 1F));
             tableLayoutPanel3.Controls.Add(tbLogs, 1, 3);
             tableLayoutPanel3.Controls.Add(label1, 1, 1);
-            tableLayoutPanel3.Location = new Point(11, 11);
-            tableLayoutPanel3.Margin = new Padding(3, 4, 3, 4);
+            tableLayoutPanel3.Location = new Point(10, 8);
             tableLayoutPanel3.Name = "tableLayoutPanel3";
             tableLayoutPanel3.RowCount = 5;
             tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Percent, 1.07526886F));
@@ -246,23 +234,23 @@
             tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Percent, 1.07526886F));
             tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Percent, 84.9462357F));
             tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Percent, 1.07526886F));
-            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 27F));
-            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 27F));
-            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 27F));
-            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 27F));
-            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 27F));
-            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 27F));
-            tableLayoutPanel3.Size = new Size(262, 726);
+            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel3.Size = new Size(229, 544);
             tableLayoutPanel3.TabIndex = 1;
             // 
             // tbLogs
             // 
             tbLogs.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            tbLogs.Location = new Point(5, 103);
-            tbLogs.Margin = new Padding(3, 4, 3, 4);
+            tbLogs.Location = new Point(5, 77);
             tbLogs.Multiline = true;
             tbLogs.Name = "tbLogs";
-            tbLogs.Size = new Size(250, 608);
+            tbLogs.ReadOnly = true;
+            tbLogs.Size = new Size(218, 456);
             tbLogs.TabIndex = 4;
             // 
             // label1
@@ -270,20 +258,19 @@
             label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             label1.AutoSize = true;
             label1.Font = new Font("Cambria", 18F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            label1.Location = new Point(5, 7);
+            label1.Location = new Point(5, 5);
             label1.Name = "label1";
-            label1.Size = new Size(250, 85);
+            label1.Size = new Size(218, 64);
             label1.TabIndex = 5;
             label1.Text = "Работа сервера";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // Server
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(896, 748);
+            ClientSize = new Size(784, 561);
             Controls.Add(tableLayoutPanel1);
-            Margin = new Padding(3, 4, 3, 4);
             Name = "Server";
             Text = "Сервер";
             Load += Server_Load;
