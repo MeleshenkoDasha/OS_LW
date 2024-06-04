@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\LR6_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C7C58-FA04-4819-9821-05437E6D60C3}|LR6_client\\LR6_client.csproj|c:\\users\\ivan\\desktop\\lr6_client\\lr6_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C7C58-FA04-4819-9821-05437E6D60C3}|LR6_client\\LR6_client.csproj|solutionrelative:lr6_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C7C58-FA04-4819-9821-05437E6D60C3}|LR6_client\\LR6_client.csproj|c:\\users\\ivan\\desktop\\lr6_client\\lr6_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C7C58-FA04-4819-9821-05437E6D60C3}|LR6_client\\LR6_client.csproj|solutionrelative:lr6_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\LR6_client\\LR6_client\\Form1.cs",
+              "RelativeDocumentMoniker": "LR6_client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\LR6_client\\LR6_client\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "LR6_client\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:16:30.397Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\LR6_client\\LR6_client\\Form1.cs",
+              "RelativeDocumentMoniker": "LR6_client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\LR6_client\\LR6_client\\Form1.cs",
+              "RelativeToolTip": "LR6_client\\Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:50:23.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
